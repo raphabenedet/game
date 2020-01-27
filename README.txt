@@ -1,0 +1,1 @@
+Little console game developed with just HTML5 and CSS3.
